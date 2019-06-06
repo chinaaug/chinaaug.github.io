@@ -1,5 +1,7 @@
 ## 欢迎参观我的Blog
 
+测试桌面端同步功能！测试测试测试
+
 You can use the [editor on GitHub](https://github.com/chinaaug/chinaaug.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
