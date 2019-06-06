@@ -38,4 +38,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-[链接新的文件](https://chinaaug.github.io/list_file.md)
+[链接新的文件](https://github.com/chinaaug/chinaaug.github.io/edit/master/list_file.md)
